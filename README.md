@@ -23,6 +23,13 @@ Conteúdo voltado para aplicações práticas e integração dos conceitos:
 - **exercicios01.py**: Exercícios focados em lógica de programação, funções e manipulação de dados.
 - **exercicios02.py**: Exercícios adicionais, podendo abordar temas como orientação a objetos, módulos ou bibliotecas externas.
 
+### aula04_bootcamp
+Conteúdo voltado para aprofundamento e desafios avançados:
+- **desafio.py**: Desafio principal da aula, geralmente envolvendo integração de múltiplos conceitos aprendidos anteriormente, como manipulação de dados, funções, estruturas de repetição e condicionais.
+- **exercicios.py**: Exercícios práticos para consolidar o aprendizado, podendo abordar temas como listas, dicionários, funções, tratamento de exceções e manipulação de arquivos.
+- **exercicios02.py**: Exercícios complementares, com foco em algoritmos mais avançados, uso de módulos externos, ou introdução à orientação a objetos.
+Caso existam outros arquivos, eles podem conter exemplos, projetos ou materiais de apoio relacionados ao conteúdo da aula.
+
 ## Como Utilizar
 1. Navegue até a pasta da aula desejada.
 2. Execute os scripts Python para praticar os conceitos.
