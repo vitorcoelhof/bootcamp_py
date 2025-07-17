@@ -24,11 +24,10 @@ Conteúdo voltado para aplicações práticas e integração dos conceitos:
 - **exercicios02.py**: Exercícios adicionais, podendo abordar temas como orientação a objetos, módulos ou bibliotecas externas.
 
 ### aula04_bootcamp
-Conteúdo voltado para aprofundamento e desafios avançados:
-- **desafio.py**: Desafio principal da aula, geralmente envolvendo integração de múltiplos conceitos aprendidos anteriormente, como manipulação de dados, funções, estruturas de repetição e condicionais.
-- **exercicios.py**: Exercícios práticos para consolidar o aprendizado, podendo abordar temas como listas, dicionários, funções, tratamento de exceções e manipulação de arquivos.
-- **exercicios02.py**: Exercícios complementares, com foco em algoritmos mais avançados, uso de módulos externos, ou introdução à orientação a objetos.
-Caso existam outros arquivos, eles podem conter exemplos, projetos ou materiais de apoio relacionados ao conteúdo da aula.
+Conteúdo voltado para aprofundamento em listas, dicionários e boas práticas:
+- **exemplo_typehint.py**: Exemplo prático sobre o uso de type hints (tipagem estática) em Python, mostrando como declarar tipos de variáveis e funções para melhorar a legibilidade e manutenção do código.
+- **exercicios_lista.py**: Exercícios focados em manipulação de listas, incluindo operações como adicionar, remover, buscar elementos, ordenação e compreensão de listas.
+- **exercicios_dic.py**: Exercícios voltados para dicionários, abordando criação, atualização, iteração, busca de valores e métodos úteis para trabalhar com esse tipo de estrutura.
 
 ## Como Utilizar
 1. Navegue até a pasta da aula desejada.
