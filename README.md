@@ -33,6 +33,34 @@ Aprofundamento em listas, dicionários, funções e boas práticas:
 - **using_lib.py**: Exemplo de importação e uso de funções de outros arquivos Python.
 - **exemplo.csv**: Arquivo de dados CSV utilizado para exemplos de leitura e manipulação de dados.
 
+### aula05_one_billion_row
+Projeto voltado para manipulação e análise de grandes volumes de dados:
+- **src/**: Scripts-fonte do projeto, geralmente contendo o código principal de processamento e análise.
+- **data/**: Pasta destinada ao armazenamento de dados utilizados ou gerados pelo projeto.
+- **pyproject.toml / poetry.lock**: Arquivos de configuração e dependências do projeto Python gerenciados pelo Poetry.
+- **README.md**: Documentação específica do projeto.
+- **.python-version**: Define a versão do Python utilizada no ambiente.
+
+### aula06_bootcamp
+Projeto com foco em automação, banco de dados e boas práticas de desenvolvimento:
+- **main.py / main copy.py**: Scripts principais do projeto, normalmente responsáveis pela execução das rotinas principais.
+- **create_table/**: Scripts para criação de tabelas no banco de dados.
+- **helper/**: Funções auxiliares e utilitários usados no projeto.
+- **Dockerfile**: Arquivo para criação de container Docker, facilitando a execução do ambiente.
+- **script.sql**: Script SQL para manipulação ou criação de estruturas no banco de dados.
+- **front.js**: Script JavaScript para interface ou integração frontend.
+- **pyproject.toml / poetry.lock**: Gerenciamento de dependências Python via Poetry.
+- **.pre-commit-config.yaml / .flake8 / .gitignore / .python-version**: Arquivos de configuração para qualidade de código, ambiente e versionamento.
+- **README.md**: Documentação específica do projeto.
+
+### aula07_bootcamp
+Exercícios e exemplos de ETL (Extract, Transform, Load) e manipulação de dados:
+- **main.py**: Script principal da aula, geralmente reunindo os conceitos de ETL e manipulação de dados.
+- **etl.py**: Script dedicado ao processo de ETL, extraindo, transformando e carregando dados.
+- **exemplo_00.py**: Exemplo prático de manipulação ou análise de dados.
+- **vendas.csv**: Arquivo de dados utilizado para exercícios de leitura, transformação e análise.
+- **.python-version**: Define a versão do Python utilizada no ambiente.
+
 ## Como Utilizar
 1. Navegue até a pasta da aula desejada.
 2. Execute os scripts Python para praticar os conceitos.
