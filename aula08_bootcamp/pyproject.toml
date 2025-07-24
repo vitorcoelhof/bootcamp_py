@@ -1,0 +1,23 @@
+[project]
+name = "aula08-bootcamp"
+version = "0.1.0"
+description = ""
+authors = [
+    {name = "vitorcoelhof",email = "vitorcoelhof@gmail.com"}
+]
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "numpy (==2.3.1)",
+    "pandas (>=2.3.1,<3.0.0)",
+    "pandera (>=0.25.0,<0.26.0)",
+    "fastparquet (>=2024.11.0,<2025.0.0)"
+]
+
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"
+
+[tool.poetry]
+package-mode = false
