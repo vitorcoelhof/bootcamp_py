@@ -61,6 +61,32 @@ Exercícios e exemplos de ETL (Extract, Transform, Load) e manipulação de dado
 - **vendas.csv**: Arquivo de dados utilizado para exercícios de leitura, transformação e análise.
 - **.python-version**: Define a versão do Python utilizada no ambiente.
 
+### aula08_bootcamp
+Projeto avançado de ETL e consolidação de dados:
+- **etl.py**: Script dedicado ao processo de ETL, realizando extração, transformação e carga dos dados.
+- **pipeline.py**: Script que organiza e executa o pipeline de processamento de dados.
+- **data/**: Pasta destinada ao armazenamento de dados brutos ou intermediários utilizados no projeto.
+- **vendas_consolidadas.csv**: Arquivo de dados consolidado em formato CSV, resultado do processamento.
+- **vendas_consolidadas.parquet**: Arquivo de dados consolidado em formato Parquet, otimizado para análise e armazenamento eficiente.
+- **pyproject.toml / poetry.lock**: Gerenciamento de dependências Python via Poetry.
+- **.python-version**: Define a versão do Python utilizada no ambiente.
+
+### aula08_bootcamp
+Projeto avançado de ETL e consolidação de dados:
+- **etl.py**: Script dedicado ao processo de ETL, realizando extração, transformação e carga dos dados.
+- **pipeline.py**: Script que organiza e executa o pipeline de processamento de dados.
+- **data/**: Pasta destinada ao armazenamento de dados brutos ou intermediários utilizados no projeto.
+- **vendas_consolidadas.csv**: Arquivo de dados consolidado em formato CSV, resultado do processamento.
+- **vendas_consolidadas.parquet**: Arquivo de dados consolidado em formato Parquet, otimizado para análise e armazenamento eficiente.
+- **pyproject.toml / poetry.lock**: Gerenciamento de dependências Python via Poetry.
+- **.python-version**: Define a versão do Python utilizada no ambiente.
+- **.gitignore**: Arquivo de configuração para ignorar arquivos e pastas no versionamento.
+- **README.md**: Documentação específica do projeto.
+- **__init__.py / __pycache__/**: Arquivos e pastas de configuração do pacote Python e cache de execução.
+- **.gitignore**: Arquivo de configuração para ignorar arquivos e pastas no versionamento.
+- **README.md**: Documentação específica do projeto.
+- **__init__.py / __pycache__/**: Arquivos e pastas de configuração do pacote Python e cache de execução.
+
 ## Como Utilizar
 1. Navegue até a pasta da aula desejada.
 2. Execute os scripts Python para praticar os conceitos.
