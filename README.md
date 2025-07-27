@@ -70,19 +70,37 @@ Projeto avançado de ETL e consolidação de dados:
 - **vendas_consolidadas.parquet**: Arquivo de dados consolidado em formato Parquet, otimizado para análise e armazenamento eficiente.
 - **pyproject.toml / poetry.lock**: Gerenciamento de dependências Python via Poetry.
 - **.python-version**: Define a versão do Python utilizada no ambiente.
-
-### aula08_bootcamp
-Projeto avançado de ETL e consolidação de dados:
-- **etl.py**: Script dedicado ao processo de ETL, realizando extração, transformação e carga dos dados.
-- **pipeline.py**: Script que organiza e executa o pipeline de processamento de dados.
-- **data/**: Pasta destinada ao armazenamento de dados brutos ou intermediários utilizados no projeto.
-- **vendas_consolidadas.csv**: Arquivo de dados consolidado em formato CSV, resultado do processamento.
-- **vendas_consolidadas.parquet**: Arquivo de dados consolidado em formato Parquet, otimizado para análise e armazenamento eficiente.
-- **pyproject.toml / poetry.lock**: Gerenciamento de dependências Python via Poetry.
-- **.python-version**: Define a versão do Python utilizada no ambiente.
 - **.gitignore**: Arquivo de configuração para ignorar arquivos e pastas no versionamento.
 - **README.md**: Documentação específica do projeto.
 - **__init__.py / __pycache__/**: Arquivos e pastas de configuração do pacote Python e cache de execução.
+
+### aula09_bootcamp
+Projeto com múltiplos exemplos de ETL, manipulação de dados e uso de padrões:
+- **etl.py**: Script dedicado ao processo de ETL.
+- **exemplo_00.py**: Exemplo prático de manipulação ou análise de dados.
+- **hello.py**: Exemplo simples de execução e impressão.
+- **log.py**: Script para registro e manipulação de logs.
+- **main.py / main copy.py**: Scripts principais do projeto.
+- **pic/**: Pasta para imagens ou arquivos auxiliares.
+- **pipeline.py**: Script que organiza e executa o pipeline de processamento de dados.
+- **singleton_decorator.py**: Exemplo de implementação do padrão Singleton via decorator.
+- **tenacity_decorator.py**: Exemplo de uso do decorator tenacity para retry.
+- **timer.py**: Script para medir tempo de execução.
+- **data/**: Pasta destinada ao armazenamento de dados.
+- **pyproject.toml**: Gerenciamento de dependências Python via Poetry.
+- **.python-version**: Define a versão do Python utilizada no ambiente.
+- **README.md**: Documentação específica do projeto.
+- **__init__.py / __pycache__/**: Arquivos e pastas de configuração do pacote Python e cache de execução.
+- **.venv/**: Ambiente virtual Python.
+
+### aula10_bootcamp
+Projeto com exemplos de uso de classes, manipulação de dados e organização de código:
+- **usar_class.py**: Exemplo prático de uso de classes em Python.
+- **src/**: Pasta com scripts-fonte do projeto.
+- **data/**: Pasta destinada ao armazenamento de dados.
+- **pyproject.toml**: Gerenciamento de dependências Python via Poetry.
+- **.python-version**: Define a versão do Python utilizada no ambiente.
+- **__pycache__/**: Cache de execução do Python.
 - **.gitignore**: Arquivo de configuração para ignorar arquivos e pastas no versionamento.
 - **README.md**: Documentação específica do projeto.
 - **__init__.py / __pycache__/**: Arquivos e pastas de configuração do pacote Python e cache de execução.
