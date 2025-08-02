@@ -74,6 +74,37 @@ Projeto avançado de ETL e consolidação de dados:
 - **README.md**: Documentação específica do projeto.
 - **__init__.py / __pycache__/**: Arquivos e pastas de configuração do pacote Python e cache de execução.
 
+### aula11_bootcamp
+Projeto com organização de dados, manipulação de arquivos JSON e scripts principais:
+- **src/**: Pasta com scripts-fonte do projeto.
+- **data/**: Pasta destinada ao armazenamento de dados.
+- **json_files/**: Pasta para arquivos JSON utilizados ou gerados.
+- **README.md**: Documentação específica do projeto.
+
+### aula12_bootcamp
+Projeto com foco em banco de dados, leitura de arquivos e desafios:
+- **main.py**: Script principal do projeto.
+- **desafio.py**: Script de desafio proposto na aula.
+- **create.py**: Script para criação de estruturas ou dados.
+- **read.py / read_ops.py / read_ops_2.py**: Scripts para leitura e manipulação de dados.
+- **read_sql.sql**: Script SQL para leitura de dados.
+- **database.db**: Banco de dados utilizado no projeto.
+- **ebook/**: Pasta para arquivos de e-book ou materiais complementares.
+- **planejado/**: Pasta para organização de arquivos planejados ou estruturados.
+- **poetry.lock / pyproject.toml / pyproject copy.toml**: Gerenciamento de dependências Python via Poetry.
+- **README.md**: Documentação específica do projeto.
+
+### aula13_bootcamp
+Projeto com desafios de banco de dados, manipulação de imagens e scripts de consulta:
+- **desafio.py**: Script de desafio proposto na aula.
+- **desafio_query.py / desafio_query_sql.sql**: Scripts de consulta e manipulação de dados.
+- **exercicio_01.py / exercicio_02.py / exercicio_03.py / exercicio_04.py**: Scripts de exercícios práticos.
+- **meubanco.db / desafio.db**: Bancos de dados utilizados no projeto.
+- **pics/**: Pasta para imagens ou arquivos auxiliares.
+- **poetry.lock / pyproject.toml**: Gerenciamento de dependências Python via Poetry.
+- **.python-version**: Define a versão do Python utilizada no ambiente.
+- **README.md**: Documentação específica do projeto.
+
 ### aula09_bootcamp
 Projeto com múltiplos exemplos de ETL, manipulação de dados e uso de padrões:
 - **etl.py**: Script dedicado ao processo de ETL.
