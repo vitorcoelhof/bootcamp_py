@@ -39,6 +39,29 @@ Projeto voltado para manipulação e análise de grandes volumes de dados:
 - **data/**: Pasta destinada ao armazenamento de dados utilizados ou gerados pelo projeto.
 - **pyproject.toml / poetry.lock**: Arquivos de configuração e dependências do projeto Python gerenciados pelo Poetry.
 - **README.md**: Documentação específica do projeto.
+
+### aula14_bootcamp
+Pasta reservada para conteúdos futuros. (Atualmente vazia)
+
+### aula15_bootcamp
+Projeto com exemplos de manipulação de arquivos JSON, banco de dados e organização de código:
+- **exemplo_00.py / exemplo_01.py / exemplo_02_json.py / json_exemplo.py**: Exemplos práticos de manipulação de dados e arquivos JSON.
+- **pokemon.db**: Banco de dados utilizado no projeto.
+- **arbok.json**: Exemplo de arquivo JSON.
+- **src/**: Pasta com scripts-fonte do projeto.
+- **pics/**: Pasta para imagens ou arquivos auxiliares.
+- **pyproject.toml / poetry.lock**: Gerenciamento de dependências Python via Poetry.
+- **.python-version**: Define a versão do Python utilizada no ambiente.
+- **README.md**: Documentação específica do projeto.
+
+### aula16_bootcamp
+Projeto com exemplos de uso de banco de dados, imagens e containers:
+- **src/**: Pasta com scripts-fonte do projeto.
+- **pics/**: Pasta para imagens ou arquivos auxiliares.
+- **test.db**: Banco de dados utilizado no projeto.
+- **Dockerfile**: Arquivo para criação de container Docker.
+- **pyproject.toml / poetry.lock**: Gerenciamento de dependências Python via Poetry.
+- **README.md**: Documentação específica do projeto.
 - **.python-version**: Define a versão do Python utilizada no ambiente.
 
 ### aula06_bootcamp
@@ -74,37 +97,6 @@ Projeto avançado de ETL e consolidação de dados:
 - **README.md**: Documentação específica do projeto.
 - **__init__.py / __pycache__/**: Arquivos e pastas de configuração do pacote Python e cache de execução.
 
-### aula11_bootcamp
-Projeto com organização de dados, manipulação de arquivos JSON e scripts principais:
-- **src/**: Pasta com scripts-fonte do projeto.
-- **data/**: Pasta destinada ao armazenamento de dados.
-- **json_files/**: Pasta para arquivos JSON utilizados ou gerados.
-- **README.md**: Documentação específica do projeto.
-
-### aula12_bootcamp
-Projeto com foco em banco de dados, leitura de arquivos e desafios:
-- **main.py**: Script principal do projeto.
-- **desafio.py**: Script de desafio proposto na aula.
-- **create.py**: Script para criação de estruturas ou dados.
-- **read.py / read_ops.py / read_ops_2.py**: Scripts para leitura e manipulação de dados.
-- **read_sql.sql**: Script SQL para leitura de dados.
-- **database.db**: Banco de dados utilizado no projeto.
-- **ebook/**: Pasta para arquivos de e-book ou materiais complementares.
-- **planejado/**: Pasta para organização de arquivos planejados ou estruturados.
-- **poetry.lock / pyproject.toml / pyproject copy.toml**: Gerenciamento de dependências Python via Poetry.
-- **README.md**: Documentação específica do projeto.
-
-### aula13_bootcamp
-Projeto com desafios de banco de dados, manipulação de imagens e scripts de consulta:
-- **desafio.py**: Script de desafio proposto na aula.
-- **desafio_query.py / desafio_query_sql.sql**: Scripts de consulta e manipulação de dados.
-- **exercicio_01.py / exercicio_02.py / exercicio_03.py / exercicio_04.py**: Scripts de exercícios práticos.
-- **meubanco.db / desafio.db**: Bancos de dados utilizados no projeto.
-- **pics/**: Pasta para imagens ou arquivos auxiliares.
-- **poetry.lock / pyproject.toml**: Gerenciamento de dependências Python via Poetry.
-- **.python-version**: Define a versão do Python utilizada no ambiente.
-- **README.md**: Documentação específica do projeto.
-
 ### aula09_bootcamp
 Projeto com múltiplos exemplos de ETL, manipulação de dados e uso de padrões:
 - **etl.py**: Script dedicado ao processo de ETL.
@@ -135,6 +127,37 @@ Projeto com exemplos de uso de classes, manipulação de dados e organização d
 - **.gitignore**: Arquivo de configuração para ignorar arquivos e pastas no versionamento.
 - **README.md**: Documentação específica do projeto.
 - **__init__.py / __pycache__/**: Arquivos e pastas de configuração do pacote Python e cache de execução.
+
+### aula11_bootcamp
+Projeto com organização de dados, manipulação de arquivos JSON e scripts principais:
+- **src/**: Pasta com scripts-fonte do projeto.
+- **data/**: Pasta destinada ao armazenamento de dados.
+- **json_files/**: Pasta para arquivos JSON utilizados ou gerados.
+- **README.md**: Documentação específica do projeto.
+
+### aula12_bootcamp
+Projeto com foco em banco de dados, leitura de arquivos e desafios:
+- **main.py**: Script principal do projeto.
+- **desafio.py**: Script de desafio proposto na aula.
+- **create.py**: Script para criação de estruturas ou dados.
+- **read.py / read_ops.py / read_ops_2.py**: Scripts para leitura e manipulação de dados.
+- **read_sql.sql**: Script SQL para leitura de dados.
+- **database.db**: Banco de dados utilizado no projeto.
+- **ebook/**: Pasta para arquivos de e-book ou materiais complementares.
+- **planejado/**: Pasta para organização de arquivos planejados ou estruturados.
+- **poetry.lock / pyproject.toml / pyproject copy.toml**: Gerenciamento de dependências Python via Poetry.
+- **README.md**: Documentação específica do projeto.
+
+### aula13_bootcamp
+Projeto com desafios de banco de dados, manipulação de imagens e scripts de consulta:
+- **desafio.py**: Script de desafio proposto na aula.
+- **desafio_query.py / desafio_query_sql.sql**: Scripts de consulta e manipulação de dados.
+- **exercicio_01.py / exercicio_02.py / exercicio_03.py / exercicio_04.py**: Scripts de exercícios práticos.
+- **meubanco.db / desafio.db**: Bancos de dados utilizados no projeto.
+- **pics/**: Pasta para imagens ou arquivos auxiliares.
+- **poetry.lock / pyproject.toml**: Gerenciamento de dependências Python via Poetry.
+- **.python-version**: Define a versão do Python utilizada no ambiente.
+- **README.md**: Documentação específica do projeto.
 
 ## Como Utilizar
 1. Navegue até a pasta da aula desejada.
